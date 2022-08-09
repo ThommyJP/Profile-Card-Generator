@@ -66,9 +66,11 @@ window.onload = function() {
     // if includeCover is true the algorithm should
     includeCover: true,
     // this is the url of the image that will used as background for the profile cover
-    background: "https://images.unsplash.com/photo-1511974035430-5de47d3b95da",
+    background:
+      "https://www.nicepng.com/png/full/950-9505275_2-arctic-monkeys-vinyl.png",
     // this is the url for the profile avatar
-    avatarURL: "https://randomuser.me/api/portraits/women/42.jpg",
+    avatarURL:
+      "https://freepngimg.com/thumb/youtube/63841-profile-twitch-youtube-avatar-discord-free-download-image.png",
     // social media bar position (left or right)
     socialMediaPosition: "position-left",
     // social media usernames
